@@ -87,14 +87,8 @@ Please see [CONTRIBUTING](https://github.com/spatie/.github/blob/main/CONTRIBUTI
 
 If you discover any security related issues, please email [security@spatie.be](mailto:security@spatie.be) instead of using the issue tracker.
 
-## Credits
 
-- [Freek Van der Herten](https://github.com/freekmurze)
-- [All Contributors](../../contributors)
 
-A big thank you to [Nicolas Beauvais](https://github.com/nicolasbeauvais) for helping out with the issues on this repo.
-
-And a special thanks to [Caneco](https://twitter.com/caneco) for the logo ✨
 
 ## Alternatives
 

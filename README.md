@@ -94,4 +94,4 @@ If you discover any security related issues, please email [security@spatie.be](m
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE.md) for more information

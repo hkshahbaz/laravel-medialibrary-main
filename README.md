@@ -89,10 +89,6 @@ If you discover any security related issues, please email [security@spatie.be](m
 
 
 
-
-## Alternatives
-
-- [laravel-mediable](https://github.com/plank/laravel-mediable)
 - [laravel-stapler](https://github.com/CodeSleeve/laravel-stapler)
 - [media-manager](https://github.com/talvbansal/media-manager)
 
